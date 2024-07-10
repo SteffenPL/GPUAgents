@@ -1,0 +1,8 @@
+[deps]
+Adapt = "79e6a3ab-5dfb-504d-930d-738a2a938a0e"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+KernelAbstractions = "63c18a36-062a-441e-b654-da1e3ab1ce7c"
+ProtoStructs = "437b6fc4-8e8e-11e9-3fa1-ad391e66c018"
+SpatialHashTables = "894afd4e-5c6f-4d1a-a294-873acbd0e95c"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
